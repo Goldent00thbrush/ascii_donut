@@ -4,7 +4,7 @@ Animated ascii rotating donut built in c++.
 ## Introduction
 The purpose of this project is to dive deeper into the mathematics of 3D perspective rendering and simple c++ gui. The idea is building a simple ascii donut and display it in form of a qt app with the donut as a class. The UI is a text label that updates every 20 msec.   
 ## The App
-source: Pintrest
+source: Pintrest\
 ![donut](https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif)
 ## Technologies 
 -	c++
